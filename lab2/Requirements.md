@@ -101,7 +101,7 @@
 
 <a name="end_window"/>
 
-Конец игры  
+Топ игроков  
 ![Топ игроков](Interface/TopWindow.png "Top page") 
 
 <a name="user_specifications"/>
